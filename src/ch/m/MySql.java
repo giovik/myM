@@ -18,7 +18,7 @@ public class MySql {
 		// TODO Auto-generated method stub
 		//System.out.println(sessionId);
 		this.sessionID = sessionId;	
-		// ggf gggg rrr
+		// ggf gggg rrr rrrfff
 	}
 
 
